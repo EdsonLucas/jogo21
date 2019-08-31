@@ -1,0 +1,6 @@
+/Users/lucas/Projects/Jogo21/Jogo21/bin/Debug/Jogo21.exe
+/Users/lucas/Projects/Jogo21/Jogo21/bin/Debug/Jogo21.pdb
+/Users/lucas/Projects/Jogo21/Jogo21/obj/x86/Debug/Jogo21.csprojAssemblyReference.cache
+/Users/lucas/Projects/Jogo21/Jogo21/obj/x86/Debug/Jogo21.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/Jogo21/Jogo21/obj/x86/Debug/Jogo21.exe
+/Users/lucas/Projects/Jogo21/Jogo21/obj/x86/Debug/Jogo21.pdb
